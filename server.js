@@ -20,7 +20,7 @@ app.get('/', (request, response) => {
         }
 
         const jsonData = JSON.parse(dataFromFile);
-        response.render('index');
+        response.render('index', {cv: jsonData});
 
         //console.log(jsonData);
         //response.json(JSON.parse(dataFromFile));

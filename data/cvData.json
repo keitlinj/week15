@@ -1,11 +1,10 @@
 {
-  "cv_owner": "Keitlin Jalast",
-  "contact_info": {
-    "birthdate": "01.01.2001",
-    "address": "Järvamaa",
-    "email": "keitlin.jalast@tktk.ee",
-    "phone": "+372 51111111"
-  },
+  "fName": "Keitlin Jalast",
+  "birthdate": "01.01.2001",
+  "address": "Järvamaa",
+  "email": "keitlin.jalast@tktk.ee",
+  "phone": "+372 51111111",
+
   "education": [
     {
       "years": "2010-2019",
